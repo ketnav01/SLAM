@@ -1,5 +1,5 @@
 # SLAM
-###SLAM (Mapping and Localization) using Turtlebot
+#SLAM (Mapping and Localization) using Turtlebot
 
 Run roslaunch turtlebot3_gazebo turtlebot3_world.launch on a terminal
 
